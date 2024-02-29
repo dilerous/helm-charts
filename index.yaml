@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  default:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-02-28T21:37:15.375533-08:00"
+    description: A Helm chart for Kubernetes
+    digest: 65c88c22ee6af816fb850622ad5d8e213a2361f8dcd208b6c36999cb999b3483
+    name: default
+    type: application
+    urls:
+    - https://github.com/dilerous/helm-charts/releases/download/default-0.1.0/default-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-02-28T21:37:15.375582-08:00"
